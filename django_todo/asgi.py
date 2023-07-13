@@ -1,5 +1,5 @@
 """
-ASGI config for django_togo project.
+ASGI config for django_todo project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
